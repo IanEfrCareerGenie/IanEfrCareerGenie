@@ -1,16 +1,16 @@
-### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/ianeffremidis) 
 
-<!--
-**IanEfrCareerGenie/IanEfrCareerGenie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Ian! 
 
-Here are some ideas to get you started:
+![](https://github.com/ianeffremidis/ianeffremidis/blob/main/shakeit.jpg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an aspiring Front-End Developer with extensive Senior-Technical-Project-Management experience within the events industry.
+
+- 🔭 I’m currently working as a Junior-FE-Dev for CareerGenie, developing a career coaching AI App.
+- 📫 How to reach me: ianeffremidis@gmail.com
+- ⚡ Fun fact: I also produce music [here](https://linktr.ee/ianeffremidis)
+
+![](https://github.com/ianeffremidis/ianeffremidis/blob/main/doggo.gif)
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ianeffremidis)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ian-effraimidis-22662158/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ianiefr/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio-page-three-pi.vercel.app/)
