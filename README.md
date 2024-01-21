@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/ianeffremidis) 
+![Profile views](https://gpvc.arturio.dev/IanEfrCareerGenie) 
 
 ### Hi there 👋, my name is Ian! 
 
