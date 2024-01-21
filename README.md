@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/IanEfrCareerGenie) 
-
 ### Hi there 👋, my name is Ian! 
 
 ![](https://github.com/ianeffremidis/ianeffremidis/blob/main/shakeit.jpg)
